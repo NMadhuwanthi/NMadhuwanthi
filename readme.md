@@ -1,6 +1,6 @@
 #👩🏻‍💻 Hi, I'm K.A.N.Madhuwanthi! 👋
 
-### Software QA Engineer | Manual & Automation Testing
+### 💻 Software QA Engineer | Manual & Automation Testing
 
 I'm a Software QA Engineer passionate about software quality, test automation, and delivering reliable applications.
 
@@ -10,19 +10,6 @@ I'm a Software QA Engineer passionate about software quality, test automation, a
 - 🔗 Experience with API Testing using Postman
 - 🛠️ Familiar with JIRA, TestNG, and SQL
 - 📚 Continuously improving my QA and automation skills
-
-### 🛠️ Technical Skills
-
-- **Automation:** Selenium, Playwright, TestNG, Appium, 
-- **Programming:** Java, TypeScript, python, PHP, Java Script
-- **API Testing:** Postman, RestAssured
-- **Testing Tools:** JIRA, TestRail
-- **Database:** SQL, MYSQL
-- **Version Control & CI/CD:** Git, GitHub, Jenkins, Docker
-
-### 🎯 Career Goals
-
-To become a skilled Automation QA Engineer, build reliable automation frameworks, and continuously improve software quality.
 
 ### 📫 Connect with Me
 
@@ -38,3 +25,19 @@ To become a skilled Automation QA Engineer, build reliable automation frameworks
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+### 🛠️ Technical Skills
+
+- **Automation:** Selenium, Playwright, TestNG, Appium, 
+- **Programming:** Java, TypeScript, python, PHP, Java Script
+- **API Testing:** Postman, RestAssured
+- **Testing Tools:** JIRA, TestRail
+- **Database:** SQL, MYSQL
+- **Version Control & CI/CD:** Git, GitHub, Jenkins, Docker
+
+### 🎯 Career Goals
+
+To become a skilled Automation QA Engineer, build reliable automation frameworks, and continuously improve software quality.
+
+🤝 Let's Connect and Grow Together!
+
